@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Coverage and build
+coverage/
+dist/
+build/
+
+# Optional: VSCode settings
+.vscode/
+
+# Optional: lock files (if you only use npm OR yarn, keep the one you use)
+package-lock.json
+yarn.lock
